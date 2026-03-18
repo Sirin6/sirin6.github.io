@@ -7,6 +7,62 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+<h2 style="font-weight: bold; margin-bottom: 5px;">Instructor / Lecturer</h2>
+<hr style="margin-top: 0; margin-bottom: 25px;">
+
+{% assign lectures = site.teaching | where: "role", "Lecturer" %}
+{% for post in lectures reversed %}
+  <div style="margin-bottom: 30px;">
+    {% if post.permalink %}
+      <h3 style="margin-bottom: 5px;">
+        <a href="{{ post.permalink | relative_url }}" style="text-decoration: none; color: #2980b9; font-weight: bold;">{{ post.title }}</a>
+      </h3>
+    {% else %}
+      <h3 style="margin-bottom: 5px; font-weight: bold; color: #333;">
+        {{ post.title }}
+      </h3>
+    {% endif %}
+
+    <p style="margin-top: 0; color: #666; font-style: italic; font-size: 0.95rem;">
+      {{ post.type }}{% if post.venue %}, {{ post.venue }}{% endif %}, 
+      {% if post.semester %}{{ post.semester }} {% endif %}{{ post.date | date: "%Y" }}
+    </p>
+
+    {% if post.excerpt %}
+      <div class="archive__item-excerpt" style="font-size: 0.95rem; line-height: 1.5;">
+        {{ post.excerpt | markdownify }}
+      </div>
+    {% endif %}
+  </div>
+{% endfor %}
+
+<br>
+
+<h2 style="font-weight: bold; margin-bottom: 5px;">Teaching Assistant</h2>
+<hr style="margin-top: 0; margin-bottom: 25px;">
+
+{% assign ta_jobs = site.teaching | where: "role", "TA" %}
+{% for post in ta_jobs reversed %}
+  <div style="margin-bottom: 30px;">
+    {% if post.permalink %}
+      <h3 style="margin-bottom: 5px;">
+        <a href="{{ post.permalink | relative_url }}" style="text-decoration: none; color: #2980b9; font-weight: bold;">{{ post.title }}</a>
+      </h3>
+    {% else %}
+      <h3 style="margin-bottom: 5px; font-weight: bold; color: #333;">
+        {{ post.title }}
+      </h3>
+    {% endif %}
+
+    <p style="margin-top: 0; color: #666; font-style: italic; font-size: 0.95rem;">
+      {{ post.type }}{% if post.venue %}, {{ post.venue }}{% endif %}, 
+      {% if post.semester %}{{ post.semester }} {% endif %}{{ post.date | date: "%Y" }}
+    </p>
+
+    {% if post.excerpt %}
+      <div class="archive__item-excerpt" style="font-size: 0.95rem; line-height: 1.5;">
+        {{ post.excerpt | markdownify }}
+      </div>
+    {% endif %}
+  </div>
 {% endfor %}
