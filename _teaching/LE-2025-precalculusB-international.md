@@ -2,7 +2,7 @@
 title: "Pre-Calcules B"
 collection: teaching
 role: "Lecturer"
-type: "Undergraduate course"
+type: "pre-U course"
 permalink: /teaching/2025-precalculusB-international
 venue: "Peking University, School of Chinese as a Second Language."
 date: 2025-09-01
