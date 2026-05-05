@@ -12,6 +12,8 @@ location: "Beijing, China"
 
 Pre-U mathematics course for international students. TA: Xiangyi Liu.
 
+![2026.04.14](/images/PrecalculusB25-26.jpg)
+
 Contents
 ====
 Basic algebra
