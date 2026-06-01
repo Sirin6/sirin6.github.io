@@ -29,3 +29,9 @@ Notes
 [7 ODE III 分离变量](/files/2026_Spring_Math_B/5%20ODE%20III%常系数高阶线性方程.pdf)
 
 [8 级数 I](/files/2026_Spring_Math_B/8%20级数%20I.pdf)
+
+[9 级数 II 敛散性判别](/files/2026_Spring_Math_B/9%20级数%20II%20敛散性判别.pdf)
+
+[10 一致收敛性](/files/2026_Spring_Math_B/10%20一致收敛性.pdf)
+
+[11 广义积分](/files/2026_Spring_Math_B/11%20广义积分.pdf)
