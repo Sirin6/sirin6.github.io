@@ -12,7 +12,7 @@ location: "Beijing, China"
 
 Pre-U mathematics course for international students. 
 
-In this course, we will briefly inroduce the Chinese high school level mathematics, including basic algebra, set theory, elementary functions, derivatives, basic analytic geometry, and basic paobability theory. The purpose of this course is to provide the mathematical foundation needed for the subsequent study of basic calculus. 
+In this course, we will briefly inroduce the Chinese high school level mathematics, including basic algebra, set theory, elementary functions, derivatives, basic analytic geometry, and basic probability theory. The purpose of this course is to provide the mathematical foundation needed for the subsequent study of basic calculus. 
 
 Course information
 ====
@@ -31,7 +31,7 @@ Important Exams
 
 Course plan
 ====
-Week1: 9.7 Lecture, 9.10 Lecture (**No practice session**)
+Week1: 9.7 Lecture (**1.1-1.3**), 9.10 Lecture (**1.4-1.5**)
 
 Week2: 9.14 Lecture and practice session, 9.17 Lecture
 
@@ -75,6 +75,9 @@ Lecture notes
 
 Homeworks
 ====
+**Please submit your homework for week N on the practice session of week N+1.**
+
+**Week 1**: P16 1.4.1, P21 1.5.1, P28 B(1)(2)(3)(7), P30 C(2)(4)(5)
 
 Quizzes
 ====
