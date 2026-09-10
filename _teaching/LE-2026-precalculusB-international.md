@@ -33,7 +33,7 @@ Course plan
 ====
 Week1: 9.7 Lecture (**1.1-1.3**), 9.10 Lecture (**1.4-1.5**)
 
-Week2: 9.14 Lecture and practice session, 9.17 Lecture
+Week2: 9.14 Lecture (**1.5-1.6**) and practice session, 9.17 Lecture
 
 Week3: 9.21 Lecture and practice session (**Quiz1**), 9.24 Lecture
 
@@ -77,7 +77,8 @@ Homeworks
 ====
 **Please submit your homework for week N on the practice session of week N+1.**
 
-**Week 1**: P16 1.4.1, P21 1.5.1, P28 B(1)(2)(3)(7), P30 C(2)(4)(5)
+**Week 1**: P16 1.4.1, P27 A (2)(10)(11)(13)(14)(15)(16)(17) P28 B(1)(2)(3)(7)
+**Week 2**: P21 1.5.1, P30 C(2)(4)(5)
 
 Quizzes
 ====
