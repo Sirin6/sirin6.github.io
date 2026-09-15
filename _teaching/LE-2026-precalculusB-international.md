@@ -33,7 +33,7 @@ Course plan
 ====
 Week1: 9.7 Lecture (**1.1-1.3**), 9.10 Lecture (**1.4-1.5**)
 
-Week2: 9.14 Lecture (**1.5-1.6**) and practice session, 9.17 Lecture
+Week2: 9.14 Lecture (**1.5-1.6&2.3, skip 2.1, 2.2**) and practice session, 9.17 Lecture (**2.4**)
 
 Week3: 9.21 Lecture and practice session (**Quiz1**), 9.24 Lecture
 
@@ -72,6 +72,10 @@ Lecture notes
 ====
 [中文版](/files/2026_Fall_precalculus_B/main.pdf)\\
 [English version](/files/2026_Fall_precalculus_B/main_en.pdf)
+
+Practice session notes
+====
+[Week2](/files/2026_Fall_precalculus_B/20260914习题课note.pdf)
 
 Homeworks
 ====
