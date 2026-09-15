@@ -82,6 +82,8 @@ Homeworks
 **Please submit your homework for week N on the practice session of week N+1.**
 
 **Week 1**: P16 1.4.1, P27 A (2)(10)(11)(13)(14)(15)(16)(17) P28 B(1)(2)(3)(7)\\
+[Outstanding homeworks](/files/2026_Fall_precalculus_B/Week1优秀作业.pdf)
+
 **Week 2**: P21 1.5.1, P30 C(2)(4)(5)
 
 Quizzes
