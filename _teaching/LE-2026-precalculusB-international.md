@@ -84,7 +84,7 @@ Homeworks
 **Week 1**: P16 1.4.1, P27 A (2)(10)(11)(13)(14)(15)(16)(17) P28 B(1)(2)(3)(7)\\
 [Outstanding homeworks](/files/2026_Fall_precalculus_B/Week1优秀作业.pdf)
 
-**Week 2**: P21 1.5.1, P30 C(2)(4)(5)
+**Week 2**: P21 1.5.1(8), P30 C(2)(4)(5), P48 2.4.1, P58 A(4)(5)(6)(7), P59 B(1)(2)(3)(4)(5), P59 C (1)(5)
 
 Quizzes
 ====
