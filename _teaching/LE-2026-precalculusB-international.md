@@ -35,7 +35,7 @@ Week1: 9.7 Lecture (**1.1-1.3**), 9.10 Lecture (**1.4-1.5**)
 
 Week2: 9.14 Lecture (**1.5-1.6&2.3, skip 2.1, 2.2**) and practice session, 9.17 Lecture (**2.4**)
 
-Week3: 9.21 Lecture and practice session (**Quiz1**), 9.24 Lecture
+Week3: 9.21 Lecture (**2.5**) and practice session (**Quiz1**), 9.24 Lecture (**2.6-2.7**)
 
 Week4: 9.28 Lecture and practice session 
 
@@ -88,3 +88,4 @@ Homeworks
 
 Quizzes
 ====
+[Quiz1](/files/2026_Fall_precalculus_B/quiz1v3.pdf), [Solutions](/files/2026_Fall_precalculus_B/quiz1答案v1.pdf)
