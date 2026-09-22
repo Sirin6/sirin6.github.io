@@ -10,7 +10,7 @@ semester: Fall
 location: "Beijing, China"
 ---
 
-Practice sessions. Lecturer: Ruochuan Liu
+Practice sessions. Lecturer: [Ruochuan Liu](http://faculty.bicmr.pku.edu.cn/~ruochuan/)
 
 Practice session information
 ====
@@ -28,6 +28,8 @@ QRcode
 [1 引入](/files/2026_Fall_Math_B/1%20引入.pdf)
 
 [2 序列极限](/files/2026_Fall_Math_B/2%20序列极限.pdf)
+
+[3 函数极限](/files/2026_Fall_Math_B/3%20函数极限.pdf)
 
 2025 Notes
 =====
@@ -60,3 +62,16 @@ QRcode
 [14 多元函数微分](/files/2025_Fall_Math_B/14%20多元函数微分.pdf)
 
 [15 多元函数微分II](/files/2025_Fall_Math_B/15%20多元函数微分II.pdf)
+
+Useful links
+====
+[往年考题](https://github.com/zhuozhiyongde/Advanced-Mathematics-B-2022-PKU/tree/main)
+
+[谢彦桐讲义](https://darkoxie.github.io/)
+
+[谢惠民上册](/files/2026_Fall_Math_B/数学分析习题课讲义%20上册（第2版）%20(谢惠民%20恽自求%20易法槐%20钱定边%20编)%20(z-lib.org).pdf)\\
+[谢惠民上册答案](/files/2026_Fall_Math_B/谢惠民上册答案.pdf)\\
+[谢惠民下册](/files/2026_Fall_Math_B/数学分析习题课讲义%20下册（第2版）%20(谢惠民%20恽自求%20易法槐%20钱定边%20编)%20(z-lib.org).pdf)\\
+[谢惠民下册答案](/files/2026_Fall_Math_B/谢惠民数学分析习题集下册答案.pdf)
+
+[电子教材](/files/2026_Fall_Math_B/高等数学%20北大版%20第三版%20上册%20(李忠,周建莹)%20(Z-Library).pdf)
