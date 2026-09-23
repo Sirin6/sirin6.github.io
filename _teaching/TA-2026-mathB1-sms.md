@@ -31,6 +31,10 @@ QRcode
 
 [3 函数极限](/files/2026_Fall_Math_B/3%20函数极限.pdf)
 
+Homework answers
+====
+[第一次作业](/files/2026_Fall_Math_B/HW1%20参考答案.pdf)
+
 2025 Notes
 =====
 [1 引入](/files/2025_Fall_Math_B/1%20引入.pdf)
