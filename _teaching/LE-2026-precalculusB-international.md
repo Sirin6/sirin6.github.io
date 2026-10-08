@@ -37,11 +37,11 @@ Week2: 9.14 Lecture (**1.5-1.6&2.3, skip 2.1, 2.2**) and practice session, 9.17 
 
 Week3: 9.21 Lecture (**2.5**) and practice session (**Quiz1**), 9.24 Lecture (**2.6-2.7**)
 
-Week4: 9.28 Lecture and practice session 
+Week4: 9.28 Lecture (**3.1-3.3**) and practice session 
 
 **10.1, 10.5 National Day Holidays**
 
-Week5: 10.8 Lecture
+Week5: 10.8 Lecture (**3.4-4.1**)
 
 Week6: 10.12 Lecture and practice session (**Quiz2**), 10.15 Lecture
 
@@ -90,6 +90,8 @@ Homeworks
 [Outstanding homeworks](/files/2026_Fall_precalculus_B/Week2优秀作业.pdf)
 
 **Week 3**: P58 A(9)(10)(11)(12), P59 B(6)(7)(8)(9), P60 C(3)(4)
+
+**Week 4&5**: P88 随堂练习3.5.1, P89 A(7), P89 B(1)(2)(5), P118 A(1)(2)
 
 Quizzes
 ====
