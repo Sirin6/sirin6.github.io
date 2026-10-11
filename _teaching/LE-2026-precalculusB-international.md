@@ -89,7 +89,8 @@ Homeworks
 **Week 2**: P28 A(22)(23), P29 B(11)(12), P30 C(2)(4)(5), P48 2.4.1, P58 A(4)(5)(6)(7), P59 B(1)(2)(3)(4)(5), P59 C(1)(5)\\
 [Outstanding homeworks](/files/2026_Fall_precalculus_B/Week2优秀作业.pdf)
 
-**Week 3**: P58 A(9)(10)(11)(12), P59 B(6)(7)(8)(9), P60 C(3)(4)
+**Week 3**: P58 A(9)(10)(11)(12), P59 B(6)(7)(8)(9), P60 C(3)(4)\\
+[Outstanding homeworks](/files/2026_Fall_precalculus_B/Week3优秀作业.pdf)
 
 **Week 4&5**: P88 随堂练习3.5.1, P89 A(7), P89 B(1)(2)(5), P118 A(1)(2)
 
