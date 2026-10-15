@@ -43,7 +43,7 @@ Week4: 9.28 Lecture (**3.1-3.3**) and practice session
 
 Week5: 10.8 Lecture (**3.4-4.1**)
 
-Week6: 10.12 Lecture and practice session (**Quiz2**), 10.15 Lecture
+Week6: 10.12 Lecture (**4.1-4.2**) and practice session (**Quiz2**), 10.15 Lecture (**4.2-4.3**)
 
 Week7: 10.19 Lecture and practice session, 10.22 Lecture
 
@@ -94,6 +94,8 @@ Homeworks
 [Outstanding homeworks](/files/2026_Fall_precalculus_B/Week3优秀作业.pdf)
 
 **Week 4&5**: P88 随堂练习3.5.1, P89 A(7), P89 B(1)(2)(5), P118 A(1)(2)
+
+**Week 6**: P101 随堂练习4.2.1, P118 A(1)(2)(3)(6)(12), P119 B(1)(2)(4)(8) 
 
 Quizzes
 ====
