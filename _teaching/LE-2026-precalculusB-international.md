@@ -78,7 +78,8 @@ Practice session notes
 [Week2](/files/2026_Fall_precalculus_B/20260914习题课note.pdf)\\
 [Week3](/files/2026_Fall_precalculus_B/20260921习题课note.pdf)\\
 [Week4](/files/2026_Fall_precalculus_B/20260928习题课note.pdf)\\
-[Week6](/files/2026_Fall_precalculus_B/20261012习题课note.pdf)
+[Week6](/files/2026_Fall_precalculus_B/20261012习题课note.pdf)\\
+[Week7](/files/2026_Fall_precalculus_B/20261019习题课note.pdf)\\
 
 Homeworks
 ====
