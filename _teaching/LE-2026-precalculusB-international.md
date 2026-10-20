@@ -45,7 +45,7 @@ Week5: 10.8 Lecture (**3.4-4.1**)
 
 Week6: 10.12 Lecture (**4.1-4.2**) and practice session (**Quiz2**), 10.15 Lecture (**4.2-4.3**)
 
-Week7: 10.19 Lecture and practice session, 10.22 Lecture
+Week7: 10.19 Lecture (**4.4-4.5**) and practice session, 10.22 Lecture (**4.6-4.8**)
 
 Week8: 10.26 Lecture and practice session (**Quiz3**), 10.29 Lecture
 
