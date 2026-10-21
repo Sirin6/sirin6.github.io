@@ -97,7 +97,8 @@ Homeworks
 **Week 4&5**: P88 随堂练习3.5.1, P89 A(7), P89 B(1)(2)(5), P118 A(1)(2)\\
 [Outstanding homeworks](/files/2026_Fall_precalculus_B/Week4-5优秀作业.pdf)
 
-**Week 6**: P101 随堂练习4.2.1, P118 A(1)(2)(3)(6)(12), P119 B(1)(2)(4)(8) 
+**Week 6**: P101 随堂练习4.2.1, P118 A(1)(2)(3)(6)(12), P119 B(1)(2)(4)(8)\\
+[Outstanding homeworks](/files/2026_Fall_precalculus_B/Week6优秀作业.pdf)
 
 Quizzes
 ====
