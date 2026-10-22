@@ -33,7 +33,9 @@ QRcode
 
 [4 连续函数](/files/2026_Fall_Math_B/4%20连续函数.pdf)
 
-[5 导数](/files/2026_Fall_Math_B/4%20导数.pdf)
+[5 导数](/files/2026_Fall_Math_B/5%20导数.pdf)
+
+[6 积分的概念](/files/2026_Fall_Math_B/6%20积分的概念.pdf)
 
 Homework answers
 ====
