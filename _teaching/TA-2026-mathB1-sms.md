@@ -45,6 +45,10 @@ Homework answers
 
 [第三次作业](/files/2026_Fall_Math_B/HW3%20参考答案.pdf)
 
+[第四次作业](/files/2026_Fall_Math_B/HW4%20参考答案.pdf)
+
+[第五次作业](/files/2026_Fall_Math_B/HW5%20参考答案.pdf)
+
 2025 Notes
 =====
 [1 引入](/files/2025_Fall_Math_B/1%20引入.pdf)
