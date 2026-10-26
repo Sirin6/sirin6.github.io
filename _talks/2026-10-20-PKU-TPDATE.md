@@ -9,6 +9,6 @@ location: "Beijing, China"
 excerpt: ""
 ---
 
-Applied Math Lunch Meeting
+Applied Math Lunch Meeting\\
 [[Slide](/files/Talk_slides/TP-DATE.pptx)]
 

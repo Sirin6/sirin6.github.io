@@ -14,8 +14,8 @@ author_profile: true
   [[Paper](https://arxiv.org/abs/2609.20008)] -->
 
 
-* **Simulation-free Unbalanced Dynamic Optimal Transport with General Growth Penalty**, **Junda Ying<sup>1</sup>**, Yuxuan Wang, Bowen Yang, Peijie Zhou<sup>†</sup>, Lei Zhang<sup>†</sup>
-  *NeurIPS2026 poster*, Sep, 2026
+* **Simulation-free Unbalanced Dynamic Optimal Transport with General Growth Penalty**, **Junda Ying<sup>1</sup>**, Yuxuan Wang, Bowen Yang, Peijie Zhou<sup>†</sup>, Lei Zhang<sup>†</sup>\\
+  *NeurIPS2026 poster*, Sep, 2026\\
   [[Paper](https://arxiv.org/abs/2609.04710)]
 
 * **Beyond Continuity: Simulation-free Reconstruction of Discrete Branching Dynamics from Single-cell Snapshots**, **Junda Ying<sup>1</sup>**, Yuxuan Wang<sup>1</sup>, Bowen Yang<sup>1</sup>, Peijie Zhou<sup>†</sup>, Lei Zhang<sup>†</sup>  
