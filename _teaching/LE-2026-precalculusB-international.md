@@ -47,7 +47,7 @@ Week6: 10.12 Lecture (**4.1-4.2**) and practice session (**Quiz2**), 10.15 Lectu
 
 Week7: 10.19 Lecture (**4.4-4.5**) and practice session, 10.22 Lecture (**4.6-4.8**)
 
-Week8: 10.26 Lecture and practice session (**Quiz3**), 10.29 Lecture
+Week8: 10.26 Lecture (**5.1-5.3**) and practice session (**Quiz3**), 10.29 Lecture (**5.4-5.5**)
 
 Week9: **Midterm activities, no class**
 
@@ -80,6 +80,7 @@ Practice session notes
 [Week4](/files/2026_Fall_precalculus_B/20260928习题课note.pdf)\\
 [Week6](/files/2026_Fall_precalculus_B/20261012习题课note.pdf)\\
 [Week7](/files/2026_Fall_precalculus_B/20261019习题课note.pdf)\\
+[Week8](/files/2026_Fall_precalculus_B/20261026习题课note.pdf)
 
 Homeworks
 ====
@@ -107,3 +108,5 @@ Quizzes
 [Quiz1](/files/2026_Fall_precalculus_B/quiz1v3.pdf), [Solutions](/files/2026_Fall_precalculus_B/quiz1答案v1.pdf)
 
 [Quiz2](/files/2026_Fall_precalculus_B/quiz2v3.pdf), [Solutions](/files/2026_Fall_precalculus_B/quiz2答案v1.pdf)
+
+[Quiz3](/files/2026_Fall_precalculus_B/quiz3v3.pdf), [Solutions](/files/2026_Fall_precalculus_B/quiz3答案.pdf)
