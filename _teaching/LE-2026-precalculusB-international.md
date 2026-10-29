@@ -103,6 +103,8 @@ Homeworks
 
 **Week 7**: P118 A(4)(5)(7)(8)(9)(11)(14), P119 B(3)(7)(9)(10)(11), P120 C(1)(2)(5)(6)(7)
 
+**Week 8**: P141 A(1)(2)(3)(4)(5)(6)(7)(8), P142 B(2)(3)(4)(5), P142 C(1)(2)(4)
+
 Quizzes
 ====
 [Quiz1](/files/2026_Fall_precalculus_B/quiz1v3.pdf), [Solutions](/files/2026_Fall_precalculus_B/quiz1答案v1.pdf)
