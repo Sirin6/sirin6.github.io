@@ -37,6 +37,8 @@ QRcode
 
 [6 积分的概念](/files/2026_Fall_Math_B/6%20积分的概念.pdf)
 
+[7 积分的计算（2025）](/files/2025_Fall_Math_B/7%20积分的计算.pdf)
+
 Homework answers
 ====
 [第一次作业](/files/2026_Fall_Math_B/HW1%20参考答案.pdf)
