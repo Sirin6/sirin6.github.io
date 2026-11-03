@@ -39,6 +39,8 @@ QRcode
 
 [7 积分的计算（2025）](/files/2025_Fall_Math_B/7%20积分的计算.pdf)
 
+[8 积分的应用](/files/2026_Fall_Math_B/8%20积分的应用.pdf)
+
 Homework answers
 ====
 [第一次作业](/files/2026_Fall_Math_B/HW1%20参考答案.pdf)
@@ -50,6 +52,8 @@ Homework answers
 [第四次作业](/files/2026_Fall_Math_B/HW4%20参考答案.pdf)
 
 [第五次作业](/files/2026_Fall_Math_B/HW5%20参考答案.pdf)
+
+[第六次作业](/files/2026_Fall_Math_B/HW6%20参考答案.pdf)
 
 2025 Notes
 =====
