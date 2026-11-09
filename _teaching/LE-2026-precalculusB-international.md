@@ -114,3 +114,5 @@ Quizzes
 [Quiz2](/files/2026_Fall_precalculus_B/quiz2v3.pdf), [Solutions](/files/2026_Fall_precalculus_B/quiz2答案v1.pdf)
 
 [Quiz3](/files/2026_Fall_precalculus_B/quiz3v3.pdf), [Solutions](/files/2026_Fall_precalculus_B/quiz3答案.pdf)
+
+a
