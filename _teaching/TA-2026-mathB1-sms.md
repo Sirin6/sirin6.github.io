@@ -41,6 +41,8 @@ QRcode
 
 [8 积分的应用](/files/2026_Fall_Math_B/8%20积分的应用.pdf)
 
+[10 泰勒公式](/files/2026_Fall_Math_B/10%20泰勒公式.pdf)
+
 Homework answers
 ====
 [第一次作业](/files/2026_Fall_Math_B/HW1%20参考答案.pdf)
@@ -54,6 +56,8 @@ Homework answers
 [第五次作业](/files/2026_Fall_Math_B/HW5%20参考答案.pdf)
 
 [第六次作业](/files/2026_Fall_Math_B/HW6%20参考答案.pdf)
+
+[第七次作业](/files/2026_Fall_Math_B/HW7%20参考答案.pdf)
 
 2025 Notes
 =====
