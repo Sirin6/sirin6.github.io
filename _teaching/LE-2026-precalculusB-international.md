@@ -55,15 +55,15 @@ Week10: 11.9 Lecture (**5.6-5.7**) and practice session, 11.12 Lecture (**Exerci
 
 Week11: 11.16 Lecture (**6.1**) and practice session (**Quiz4**), 11.19 Lecture (**6.2-6.3**)
 
-Week12: 11.23 Lecture and practice session, 11.26 Lecture
+Week12: 11.23 Lecture (**6.4-6.5**) and practice session, 11.26 (**6.5-6.6**) Lecture
 
-Week13: 11.30 Lecture and practice session (**Quiz5**), 12.3 Lecture
+Week13: 11.30 Lecture (**exercise for 6.1-6.6**) and practice session (**Quiz5**), 12.3 Lecture (**6.7**)
 
-Week14: 12.7 Lecture and practice session, 12.10 Lecture
+Week14: 12.7 Lecture (**6.8 and exercise**) and practice session, 12.10 Lecture (**exercise**)
 
-Week15: 12.14 Lecture and practice session (**Quiz6**), 12.17 Lecture
+Week15: 12.14 Lecture (**7.1-7.2**) and practice session (**Quiz6**), 12.17 Lecture (**7.3-7.4**)
 
-Week16: 12.21 Lecture and practice session, 12.24 Lecture
+Week16: 12.21 Lecture (**7.4-7.5**) and practice session, 12.24 Lecture (**7.6**)
 
 After week16: **Final exam** (Time to be determined)
 
@@ -107,6 +107,8 @@ Homeworks
 [Outstanding homeworks](/files/2026_Fall_precalculus_B/Week7优秀作业.pdf)
 
 **Week 8**: P141 A(1)(2)(3)(4)(5)(6)(7)(8), P142 B(2)(3)(4)(5), P142 C(1)(2)(4)
+
+**Week 10**: P149 随堂练习6.1.1 (1)(2)(4)(5)，P153 随堂练习6.3.1 (1)(3)(4)，P175 A (1)(2)(3)(4)(5)
 
 Quizzes
 ====
